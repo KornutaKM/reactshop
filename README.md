@@ -1,1 +1,1 @@
-<a href="https://KornutaKM/github.io/react-shop">Demo</a>
+<a href="https://KornutaKM.github.io/reactshop">Demo</a>
