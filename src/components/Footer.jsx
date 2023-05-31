@@ -7,7 +7,7 @@ const Footer = () => {
         <div className='container'>
           © {new Date().getFullYear()} Copyright
           <a
-            href='https://kornutakm.github.io/react-shop/'
+            href='https://kornutakm.github.io/reactshop/'
             target='_blank'
             rel='noreferrer'
           >
